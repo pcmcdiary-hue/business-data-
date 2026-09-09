@@ -278,5 +278,33 @@
     "deals": "Free pastry with every coffee",
     "dealCode": "PASTRYFREE",
     "dealExpiry": "2026-10-14T18:30:00.000Z"
+  },
+  {
+    "businessId": "FD11",
+    "businessName": "Barista",
+    "subCategory": "Cafes",
+    "location": "Nigdi",
+    "pincode": 411044,
+    "address": "Nigdi",
+    "phone": "91 9876543219",
+    "email": "baner@barista.com",
+    "website": "https://barista.in",
+    "googleMap": "https://maps.google.com/?q=Barista+Baner",
+    "latitude": 18.6205,
+    "longitude": 73.7508,
+    "serviceArea": "Nigdi",
+    "servicePincodes": 411044,
+    "description": "Italian coffee since 2000",
+    "featured": false,
+    "premium": false,
+    "verified": true,
+    "unclaimed": false,
+    "detailPage": "/p/barista-baner",
+    "tags": "Coffee,Snacks,Italian",
+    "rating": 4.3,
+    "reviews": 85,
+    "deals": "Free pastry with every coffee",
+    "dealCode": "PASTRYFREE",
+    "dealExpiry": "2026-10-14T18:30:00.000Z"
   }
 ]
